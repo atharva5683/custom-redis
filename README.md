@@ -117,14 +117,6 @@ OK
 
 ---
 
-## 🧑‍💻 Author
-
-**Your Name**
-Passionate about DevOps, Cloud, and Backend Engineering.
-📧 [your.email@example.com](mailto:your.email@example.com)
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License** – free to use and modify.
